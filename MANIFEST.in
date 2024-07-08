@@ -1,0 +1,2 @@
+recursive-include tutor_ai_ta/patches *
+recursive-include tutor_ai_ta/templates *
